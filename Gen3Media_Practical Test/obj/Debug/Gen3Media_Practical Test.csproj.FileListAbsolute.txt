@@ -1,0 +1,6 @@
+c:\users\ines\documents\visual studio 2015\Projects\Gen3Media_Practical Test\Gen3Media_Practical Test\bin\Debug\Gen3Media_Practical Test.exe.config
+c:\users\ines\documents\visual studio 2015\Projects\Gen3Media_Practical Test\Gen3Media_Practical Test\obj\Debug\Gen3Media_Practical Test.csprojResolveAssemblyReference.cache
+c:\users\ines\documents\visual studio 2015\Projects\Gen3Media_Practical Test\Gen3Media_Practical Test\bin\Debug\Gen3Media_Practical Test.exe
+c:\users\ines\documents\visual studio 2015\Projects\Gen3Media_Practical Test\Gen3Media_Practical Test\bin\Debug\Gen3Media_Practical Test.pdb
+c:\users\ines\documents\visual studio 2015\Projects\Gen3Media_Practical Test\Gen3Media_Practical Test\obj\Debug\Gen3Media_Practical Test.exe
+c:\users\ines\documents\visual studio 2015\Projects\Gen3Media_Practical Test\Gen3Media_Practical Test\obj\Debug\Gen3Media_Practical Test.pdb
